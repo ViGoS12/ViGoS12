@@ -1,7 +1,5 @@
 ## Hi there 👋
 
----
-
 ## 💻 Tech Stack:
 
 ![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff)
